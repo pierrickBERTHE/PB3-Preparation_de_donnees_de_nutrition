@@ -1,6 +1,7 @@
 # <span style='background:blue'>Contexte</span>
 
-Santé publique France est un établissement public à caractère administratif français, placé sous la tutelle du ministère chargé de la santé, crée le 1er mai 2016.
+**Santé publique France** est un établissement public à caractère administratif français, placé sous la tutelle du ministère chargé de la santé, crée le 1er mai 2016.
+
 Cet établissement souhaite améliorer sa base de données Open Food Facts qui est mise à disposition de particuliers et d’organisations afin de leur permettre de connaître la qualité nutritionnelle de produits. Mise en place d’un système d’auto-complétion pour aider les usagers à remplir plus efficacement la base de données.  
 
 # <span style='background:blue'>Missions</span>
@@ -13,7 +14,7 @@ Cet établissement souhaite améliorer sa base de données Open Food Facts qui e
 
 # <span style='background:blue'>Dataset</span>
 
-[Open Food Facts](https://world.openfoodfacts.org/)
+[Open Food Facts](https://world.openfoodfacts.org/)<br>
 Les variables sont définies [ici](https://world.openfoodfacts.org/data/data-fields.txt)
 
 1 fichier CSV :
@@ -27,5 +28,5 @@ Les variables sont définies [ici](https://world.openfoodfacts.org/data/data-fie
 
 # <span style='background:blue'>Auteur</span>
 
-Pierrick BERTHE
+Pierrick BERTHE<br>
 Septembre 2023
