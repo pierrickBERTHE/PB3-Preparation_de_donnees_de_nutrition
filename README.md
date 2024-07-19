@@ -24,7 +24,7 @@ Les variables sont définies [ici](https://world.openfoodfacts.org/data/data-fie
 
 - **Berthe_Pierrick_1_notebook_nettoyage_092023.ipynb** : Notebook de nettoyage des données
 - **Berthe_Pierrick_2_notebook_analyses_092023.ipynb** : Notebook d'analyse exploratoire des données (univariées, bivariées et multivariées, ainsi qu'une ACP)
-- **Berthe_Pierrick_3_presentation_092023.ipynb** : Présentation des résultats
+- **Berthe_Pierrick_3_presentation_092023.pdf** : Présentation des résultats
 
 # <span style='background:blue'>Auteur</span>
 
